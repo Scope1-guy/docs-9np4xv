@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-khabji.salamcuanwin.xyz/sitemap.xml
